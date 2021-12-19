@@ -2,6 +2,8 @@
 
 <a href="https://github.com/MR0100-zz"> Unfortunatly I lost my old account. you can find here. </a>
 
+![Mitul Vaghasiya](/assets/mitul.jpg)
+
 ### I am working on
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -57,8 +59,8 @@
 
 <a href="https://twitter.com/_MR_0100"><img src="http://img.shields.io/badge/Twitter-@__MR__0100-red?style=for-the-badge&logo=Twitter"></a>
 
-| Languages | Github Stats |
-| - | - |
-|<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR0100&theme=dark&hide_langs_below=1&layout=compact" />|<img height="190" src="https://github-readme-stats.vercel.app/api?username=MR0100&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />|
+| Languages                                                                                                                                     | Github Stats                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR0100&theme=dark&hide_langs_below=1&layout=compact" /> | <img height="190" src="https://github-readme-stats.vercel.app/api?username=MR0100&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> |
 
 

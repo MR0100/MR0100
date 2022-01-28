@@ -5,12 +5,6 @@
 ![Mitul Vaghasiya](assets/mitul.jpg)
 
 
-| UPWORK                                                                                                            | FREELANCER                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [<img src="assets/upwork.png" height=50 width=200></img>](https://www.upwork.com/freelancers/~01d1417b5f7c73e5e1) | [<img src="assets/freelancer.png" height=50 width=200></img>](https://www.freelancer.in/u/satnaminfo) |
-
----
-<br><br>
 
 ### I am working on
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
